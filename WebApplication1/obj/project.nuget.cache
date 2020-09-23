@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6I6KZYLZICeAxH+LIlFSAQjBwRcfgo3BtZYN8hqlSahzNClwFU0wgkpDv1BDzAvNEJdw8kUi0ydFBawRcm56uQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dinka\\Source\\Repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dinka\\.nuget\\packages\\instana.tracing.core\\1.1.55\\instana.tracing.core.1.1.55.nupkg.sha512",
+    "C:\\Users\\dinka\\.nuget\\packages\\instana.tracing.core.rewriter.linux\\1.1.3\\instana.tracing.core.rewriter.linux.1.1.3.nupkg.sha512",
+    "C:\\Users\\dinka\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
